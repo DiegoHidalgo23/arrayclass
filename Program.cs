@@ -1,12 +1,13 @@
-﻿int [] notas={15,18,12,17,20};
-
-//Imprimir notas
-for(int i=0; i<notas.Length; i++)
+﻿//Función de imprimir notas
+static void ImprimirNotas(int[] notas)
 {
-    Console.WriteLine(notas[i]);
+    for (int i=0; i<notas.Length; i++)
+
+    {
+        Console.WriteLine(notas[i]);
+    }
 }
 
-foreach (int nota in notas)
-{
-    Console.WriteLine(nota);
-}
+int[] notas={15,18,12,17,20};
+
+ImprimirNotas(notas);

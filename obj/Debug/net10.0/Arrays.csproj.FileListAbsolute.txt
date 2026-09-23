@@ -12,3 +12,4 @@ C:\Users\Docente\Arrays\obj\Debug\net10.0\refint\Arrays.dll
 C:\Users\Docente\Arrays\obj\Debug\net10.0\Arrays.pdb
 C:\Users\Docente\Arrays\obj\Debug\net10.0\Arrays.genruntimeconfig.cache
 C:\Users\Docente\Arrays\obj\Debug\net10.0\ref\Arrays.dll
+C:\Users\Docente\Arrays\obj\Debug\net10.0\Arrays.sourcelink.json
